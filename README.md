@@ -6,3 +6,4 @@ Batteries included:
 
   - elm
   - elm-format
+  - elm-live
