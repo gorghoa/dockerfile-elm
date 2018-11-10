@@ -1,9 +1,9 @@
-FROM node:6-slim
+FROM node:6
 MAINTAINER Rodrigue Villetard <rodrigue.villetard@gmail.com>
 
 RUN npm install --global \
     create-elm-app \
-    elm@0.18 \
+    elm@0.19 \
     elm-format@exp \
     elm-live \
     elm-test \
